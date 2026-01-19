@@ -1,4 +1,4 @@
-# Controle de Combustíveis (CLI em Java)
+# Controle de Combustíveis
 
 Aplicação de linha de comando em Java para registrar quais **combustíveis** um cliente adicionou ao carrinho:
 **Álcool**, **Gasolina** e **Diesel**. O programa lê opções numéricas, atualiza contadores por produto e exibe um resumo ao final.
